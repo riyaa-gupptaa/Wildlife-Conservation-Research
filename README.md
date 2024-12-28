@@ -11,8 +11,8 @@ Sustainable Conservation Strategies: Evaluate habitat restoration, land-use plan
 Repository Contents
 
 Wildlife_Conservation_Strategies.pdf: The full research paper detailing methodologies, findings, and conclusions.
-Abstract
 
+Abstract
 The research investigates how ABM and Monte Carlo Simulation can optimize wildlife conservation strategies. By simulating interactions between agents (animals, humans, and the environment), it provides actionable insights for habitat preservation and biodiversity enhancement. The study also addresses challenges such as ethical concerns, technological limitations, and financial constraints, offering recommendations for real-world implementation
 
 Connect
